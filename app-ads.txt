@@ -1,0 +1,4 @@
+# app-ads.txt — Mohanad Games (كراش الكلمات المتقاطعة / Crash Word Cross)
+# Google AdMob
+google.com, pub-5611727636396755, DIRECT, f08c47fec0942fa0
+# Meta Audience Network, Unity Ads and AppLovin lines are added from each network's dashboard.
